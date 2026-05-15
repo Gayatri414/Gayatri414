@@ -65,46 +65,9 @@ Full-Stack Developer • Frontend Enthusiast • Passionate Learner 🚀
 
 ---
 
-# 🌌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
 
-## 🏥 Doctor Appointment System
 
-✨ Full-stack healthcare platform with:
-
-- Patient Authentication
-- Appointment Booking
-- Admin Dashboard
-- Doctor Dashboard
-- Online Payments
-- Responsive UI
-
-### 🚀 Tech Used
-React • Node.js • MongoDB • Express
-
-</td>
-
-<td width="50%">
-
-## 📄 AI Resume Builder
-
-✨ Career guidance platform with:
-
-- ATS-Friendly Resume Builder
-- AI Resume Enhancement
-- Technical Assessments
-- Performance Dashboard
-- Interactive UI
-
-### 🚀 Tech Used
-Next.js • Tailwind CSS • MongoDB
-
-</td>
-</tr>
-</table>
 
 ---
 
