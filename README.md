@@ -99,15 +99,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://github.com/Gayatri414/Gayatri414/blob/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
