@@ -86,13 +86,6 @@
 
 ---
 
-# 📈 Most Used Languages
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayatri414&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</div>
 
 ---
 
