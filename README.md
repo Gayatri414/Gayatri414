@@ -68,16 +68,7 @@
 
 ---
 
-# 🌟 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🏥 AI Healthcare Platform | AI-powered healthcare management system | MERN + AI |
-| 📚 AI E-Book Generator | Generate books using AI | Next.js + Node.js |
-| 📝 Notes App | Secure notes with JWT Authentication | MERN |
-| 💻 LeetCode Tracker | Track coding progress | React + Express |
-
----
 
 # 📊 GitHub Analytics
 
@@ -171,16 +162,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gayatri414/Gayatri414/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 👀 Profile Views
 
 <div align="center">
@@ -201,15 +182,7 @@
 
 ---
 
-# ☕ Support
 
-<div align="center">
-
-If you like my work, consider ⭐ starring my repositories.
-
-</div>
-
----
 
 # 🚀 Developer Motto
 
