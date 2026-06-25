@@ -1,10 +1,6 @@
-<!-- =========================================
-🚀 PREMIUM FUTURISTIC GITHUB PROFILE README
-========================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Gayatri%20Gade&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20UI/UX%20Enthusiast%20•%20Tech%20Learner&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Gayatri%20Gade&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20MERN%20Stack%20Developer%20•%20Tech%20Learner&descAlignY=58"/>
 
 </div>
 
@@ -12,38 +8,39 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=850&lines=Full-Stack+Developer+🚀;Frontend+Developer+✨;React+%7C+Next.js+%7C+Node.js+💻;Building+Modern+Interactive+Websites+🌐;Always+Learning+New+Technologies+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+🚀;MERN+Stack+Developer+💻;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies+🔥"/>
 
 </div>
 
 ---
 
-# 🌟 About Me
+# 👋 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-💡 Passionate **Full-Stack Developer** focused on building modern, responsive, and visually engaging applications.
+🎓 Third Year Information Technology Student
 
-🌱 Currently exploring:
-- Advanced UI/UX
-- Cloud Deployment
+💻 Passionate Full-Stack Developer
+
+🌱 Currently Learning
+
+- Next.js
+- AWS
+- Docker
+- System Design
 - AI Integration
-- Full-Stack Architectures
-- Modern Web Animations
 
-🎯 Love creating:
-- Interactive Dashboards
-- Healthcare Platforms
-- AI-Based Applications
-- Responsive Web Apps
+🚀 Interested In
 
-📚 Outside coding:
-- Reading tech blogs
-- Learning new tools
-- Exploring futuristic designs
+- MERN Stack Development
+- AI Applications
+- Cloud Computing
+- Modern UI/UX
+- Full Stack Architecture
 
-⚡ Fun Fact:
-> I love turning ideas into beautiful digital experiences ✨
+⚡ Fun Fact
+
+> I enjoy turning ideas into beautiful digital products.
 
 ---
 
@@ -51,26 +48,34 @@
 
 <div align="center">
 
-## 🖥️ Frontend
+## Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux" />
-
----
-
-## ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux"/>
 
 ---
 
-## ☁️ Tools & Platforms
+## Backend
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,aws,figma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman"/>
+
+---
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,aws,docker"/>
 
 </div>
 
 ---
 
+# 🌟 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏥 AI Healthcare Platform | AI-powered healthcare management system | MERN + AI |
+| 📚 AI E-Book Generator | Generate books using AI | Next.js + Node.js |
+| 📝 Notes App | Secure notes with JWT Authentication | MERN |
+| 💻 LeetCode Tracker | Track coding progress | React + Express |
 
 ---
 
@@ -78,14 +83,31 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gayatri414&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gayatri414&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gayatri414&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gayatri414&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayatri414&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayatri414&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
 
 ---
 
@@ -93,39 +115,73 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gayatri414&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Gayatri414&theme=tokyonight&row=1&column=7&no-frame=true"/>
 
 </div>
 
 ---
-## 📈 Activity Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayatri414&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+# 💻 Coding Profiles
 
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
 
 # 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gayatri-gade-8650762a5">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
 <a href="mailto:gayatrigade7949@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/Gayatri414">
+
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </div>
 
 ---
 
-# 💫 Profile Visitors
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Gayatri414/Gayatri414/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
 
 <div align="center">
 
@@ -135,20 +191,38 @@
 
 ---
 
-# ✨ Developer Quote
+# 💬 Random Dev Quote
 
 <div align="center">
 
-### 🚀 “Code • Learn • Build • Repeat”
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
-# 🌊 Footer Animation
+# ☕ Support
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+If you like my work, consider ⭐ starring my repositories.
+
+</div>
+
+---
+
+# 🚀 Developer Motto
+
+<div align="center">
+
+## ✨ Code • Learn • Build • Repeat ✨
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
