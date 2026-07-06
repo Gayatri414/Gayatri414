@@ -106,7 +106,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gayatri414&theme=tokyonight&row=1&column=7&no-frame=true"/>
+<img src="https://Gayatri414-trophy.vercel.app/?username=Gayatri414&theme=tokyonight&row=1&column=7&no-frame=true"/>
 
 </div>
 
