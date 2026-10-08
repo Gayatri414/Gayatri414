@@ -92,25 +92,6 @@
 
 ---
 
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayatri414&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://Gayatri414-trophy.vercel.app/?username=Gayatri414&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
-</div>
-
----
 
 # 💻 Coding Profiles
 
