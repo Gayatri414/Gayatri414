@@ -18,7 +18,7 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 Third Year Information Technology Student
+🎓 BE Information Technology Student
 
 💻 Passionate Full-Stack Developer
 
